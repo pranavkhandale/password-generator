@@ -9,26 +9,21 @@ A simple Python program that checks whether a password is strong or weak.
 - Checks for at least one digit
 - Shows the reasons if the password is weak
 
-## How to Run
+- ## How to Run
 1. Install Python 3
 2. Clone this repo:
-```
 git clone https://github.com/pranavkhandale/password-strength-checker.git
-```
+
 3. Run the file:
-```
 python password-strength-checker.py
-```
 
 ## Example
-```
 Enter Password: hello
 Weak Password
 Reasons:
 - Password must be at least 8 characters.
 - Add at least one uppercase letter.
 - Add at least one digit.
-```
 
-## Author
+- ## Author
 Pranav Khandale
