@@ -13,11 +13,11 @@ A simple Python program that checks whether a password is strong or weak.
 1. Install Python 3
 2. Clone this repo:
 ```
-git clone https://github.com/pranavkhandale/password-generator.git
+git clone https://github.com/pranavkhandale/password-strength-checker.git
 ```
 3. Run the file:
 ```
-python password-generator.py
+python password-strength-checker.py
 ```
 
 ## Example
